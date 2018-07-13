@@ -26,6 +26,7 @@ namespace BillCalculation
 
         protected void btnCalculate_Click(object sender, EventArgs e)
         {
+            string c;
             int q;
             float r, a, d, n;
             q = Convert.ToInt32(tbQuantity.Text);
@@ -34,7 +35,24 @@ namespace BillCalculation
 
             d = (float)a * 10 / 100;
             n = a - d;
-            
+
+            c = drdCategory.SelectedItem.Text;
+
+            if(string.Compare(c, "Individual") ==0)
+            {
+                d = (float)a * 10 / 100;
+            }
+
+            if (string.Compare(c, "NonProfit") == 0)
+            {
+                d = (float)a * 10 / 100;
+            }
+
+            if (string.Compare(c, "Corporate") == 0)
+            {
+                d = (float)a * 10 / 100;
+            }
+
             tbAmount.Text = a.ToString();
             tbDiscount.Text = d.ToString();
             tbNetAmount.Text = n.ToString();
