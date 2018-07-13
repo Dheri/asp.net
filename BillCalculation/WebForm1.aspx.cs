@@ -9,8 +9,18 @@ namespace BillCalculation
 {
     public partial class WebForm1 : System.Web.UI.Page
     {
+        protected string[] category = { "Individual","NonProfit","Corporate" };
         protected void Page_Load(object sender, EventArgs e)
         {
+
+
+            //some coments
+
+            if (!IsPostBack)
+            {
+                drdCategory.DataSource = category;
+                drdCategory.DataBind();
+            }
 
         }
 

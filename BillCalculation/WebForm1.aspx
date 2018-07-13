@@ -27,6 +27,13 @@
             <asp:TextBox ID="tbCost" runat="server"></asp:TextBox>
             <br />
             <br />
+            <br />
+            <asp:Label ID="Category" runat="server" Text="Cost"></asp:Label>
+&nbsp;&nbsp;
+            <asp:DropDownList ID="drdCategory" runat="server">
+            </asp:DropDownList>
+            <br />
+            <br />
             <asp:Label ID="Label5" runat="server" Text="Amount"></asp:Label>
 &nbsp;
             <asp:TextBox ID="tbAmount" runat="server"></asp:TextBox>

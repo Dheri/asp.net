@@ -85,6 +85,24 @@ namespace BillCalculation {
         protected global::System.Web.UI.WebControls.TextBox tbCost;
         
         /// <summary>
+        /// Category control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label Category;
+        
+        /// <summary>
+        /// drdCategory control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DropDownList drdCategory;
+        
+        /// <summary>
         /// Label5 control.
         /// </summary>
         /// <remarks>
