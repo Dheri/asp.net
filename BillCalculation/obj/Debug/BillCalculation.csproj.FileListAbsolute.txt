@@ -1,3 +1,5 @@
+C:\Data\College\Sem4\C#\w9b\BillCalculation\BillCalculation\obj\Debug\BillCalculation.csprojResolveAssemblyReference.cache
+C:\Data\College\Sem4\C#\w9b\BillCalculation\BillCalculation\obj\Debug\BillCalculation.csproj.CoreCompileInputs.cache
 C:\Data\College\Sem4\C#\w9b\BillCalculation\BillCalculation\bin\BillCalculation.dll.config
 C:\Data\College\Sem4\C#\w9b\BillCalculation\BillCalculation\bin\BillCalculation.dll
 C:\Data\College\Sem4\C#\w9b\BillCalculation\BillCalculation\bin\BillCalculation.pdb
@@ -51,8 +53,6 @@ C:\Data\College\Sem4\C#\w9b\BillCalculation\BillCalculation\bin\roslyn\VBCSCompi
 C:\Data\College\Sem4\C#\w9b\BillCalculation\BillCalculation\bin\roslyn\VBCSCompiler.exe.config
 C:\Data\College\Sem4\C#\w9b\BillCalculation\BillCalculation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Data\College\Sem4\C#\w9b\BillCalculation\BillCalculation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Data\College\Sem4\C#\w9b\BillCalculation\BillCalculation\obj\Debug\BillCalculation.csprojResolveAssemblyReference.cache
-C:\Data\College\Sem4\C#\w9b\BillCalculation\BillCalculation\obj\Debug\BillCalculation.csproj.CoreCompileInputs.cache
 C:\Data\College\Sem4\C#\w9b\BillCalculation\BillCalculation\obj\Debug\BillCalculation.csproj.CopyComplete
 C:\Data\College\Sem4\C#\w9b\BillCalculation\BillCalculation\obj\Debug\BillCalculation.dll
 C:\Data\College\Sem4\C#\w9b\BillCalculation\BillCalculation\obj\Debug\BillCalculation.pdb
